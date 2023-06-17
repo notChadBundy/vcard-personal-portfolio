@@ -31,7 +31,7 @@ git clone https://github.com/notChadBundy/vcard-personal-portfolio.git
 
 ## Contact
 
-If you want to contact me you can reach me at via linkedIn.
+If you want to contact me you can reach me at via [LinkedIn](https://www.linkedin.com/in/notchadbundy).
 
 ## License
 
