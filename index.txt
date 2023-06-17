@@ -2,9 +2,9 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Chad McBride
+Chad McBride
+Networking Systems Graduate
 
 Show Contacts
 
@@ -24,8 +24,6 @@ Sacramento, California, USA
 
 About
 Resume
-Portfolio
-Blog
 Contact
 
 # about

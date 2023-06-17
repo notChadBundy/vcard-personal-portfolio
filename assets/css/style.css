@@ -4,7 +4,7 @@
 
 
 /**
- * copyright 2022 @codewithsadee
+ * copyright 2022 @notChadBundy
  */
 
 
@@ -829,6 +829,12 @@ main {
   line-height: 1.6;
 }
 
+.timeline-subtext {
+  color: var(--light-gray);
+  font-weight: var(--fw-300);
+  line-height: 1.6;
+  margin-left: 0.6cm;
+}
 
 /**
  * skills 
@@ -1877,6 +1883,6 @@ textarea.form-input::-webkit-resizer { display: none; }
 	 * RESUME
 	 */
 
-  .timeline-text { max-width: 700px; }
+  .timeline-text { max-width: 700px;}
 
 }
